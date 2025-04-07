@@ -1,6 +1,7 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wyh-neophyte)](https://github.com/anuraghazra/github-readme-stats)
-!(https://github-readme-stats.vercel.app/api/top-langs/?username=wyh-neophyte&layout=compact)
+[![github stats](https://github-readme-stats.vercel.app/api?username=wyh-neophyte)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wyh-neophyte&layout=compact)
 - 🔭 I’m currently working on Deep Learning, Computer Vision, and Large Vision-Language Models.
 - 🌱 I’m currently learning Intelligent Manufacturing Engineering at Tongji University, Shanghai, China.
 - 📫 How to reach me: 2153839@tongji.edu.cn
