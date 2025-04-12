@@ -1,23 +1,11 @@
 ## Hi there 👋
-[![github stats](https://github-readme-stats.vercel.app/api?username=wyh-neophyte)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=LiHaochuan123)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wyh-neophyte&layout=compact)
-- 🔭 I’m currently working on Deep Learning, Computer Vision, and Large Vision-Language Models.
-- 🌱 I’m currently learning Intelligent Manufacturing Engineering at Tongji University, Shanghai, China.
-- 📫 How to reach me: 2153839@tongji.edu.cn
+![Top used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LiHaochuan123&layout=compact)
+
 
 
 <!--
 **wyh-neophyte/wyh-neophyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Deep Learning, Computer Vision, and Large Vision-Language Models.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
